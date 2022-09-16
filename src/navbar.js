@@ -7,7 +7,7 @@ const createLayout = () => {
    <button id="menu">Menu</button>
    <button id="contact">Contact</button>
    </nav>
-   <h1>The Breakfast Company</h1>
+   <h1>Tabbed Browsing</h1>
    `
 
    content.classList.add('hello')
